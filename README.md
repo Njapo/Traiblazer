@@ -1,0 +1,1 @@
+This program finds the shortest path from A to B, also this program generates mazes for different size of wordls. For shortest path I use Dijkstra and A* algorithms. and for maze generator I used Kruskal algorithm. In extension file I wrote faster maze generator using prims algorithm. 
